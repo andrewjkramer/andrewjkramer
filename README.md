@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewjkramer
 - 👀 I’m interested in developing web applications that can be useful in everyday life.
-- 🌱 I’m currently learning web development through the Web Development A.S. Degree program at St. Petersburg College.
+- 🌱 I’m enrolled in the Web Development A.S. Degree program at St. Petersburg College.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: https://www.linkedin.com/in/andrewjkramer/
 
