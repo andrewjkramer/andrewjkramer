@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew J. Kramer!
+- 👋 Hi, I’m Andrew!
 - 👀 I’m interested in developing web applications that can be useful in everyday life.
 - 🌱 I’m enrolled in the Web Development A.S. degree program at St. Petersburg College.
 - 💞️ I’m looking to collaborate on projects utitilizing the MERN stack and related languages.
