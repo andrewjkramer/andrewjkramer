@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew Kramer
 - 👀 I’m interested in developing web applications that can be useful in everyday life.
 - 🌱 I’m enrolled in the Web Development A.S. degree program at St. Petersburg College.
-- 💞️ I’m looking to collaborate on projects utitilizing the MERN stack and related languages.
+- 💞️ I’m looking to collaborate on projects using the MERN stack and related languages.
 - 🖥️ Stack Overflow: https://stackoverflow.com/users/21276727/andrew-j-kramer
 - 📫 How to reach me: https://www.linkedin.com/in/andrewjkramer/
 
